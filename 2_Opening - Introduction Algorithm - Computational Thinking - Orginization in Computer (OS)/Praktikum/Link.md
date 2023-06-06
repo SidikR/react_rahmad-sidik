@@ -16,8 +16,8 @@
 
 ### 1. Cek Bilangan Prima
 
-[Prima](<https://github.com/SidikR/react_rahmad-sidik/blob/main/2_Opening%20-%20Introduction%20Algorithm%20-%20Computational%20Thinking%20-%20Orginization%20in%20Computer%20(OS)/Screenshoot/Bilangan%20Prima@1.25x.png?raw=true>)
+![Prima](<https://github.com/SidikR/react_rahmad-sidik/blob/main/2_Opening%20-%20Introduction%20Algorithm%20-%20Computational%20Thinking%20-%20Orginization%20in%20Computer%20(OS)/Screenshoot/Bilangan%20Prima@1.25x.png?raw=true>)
 
 ### 2. Cek Lampu
 
-[Lampu](<https://github.com/SidikR/react_rahmad-sidik/blob/main/2_Opening%20-%20Introduction%20Algorithm%20-%20Computational%20Thinking%20-%20Orginization%20in%20Computer%20(OS)/Screenshoot/Lampu%20dan%20Tombol@1.25x.png?raw=true>)
+![Lampu](<https://github.com/SidikR/react_rahmad-sidik/blob/main/2_Opening%20-%20Introduction%20Algorithm%20-%20Computational%20Thinking%20-%20Orginization%20in%20Computer%20(OS)/Screenshoot/Lampu%20dan%20Tombol@1.25x.png?raw=true>)
