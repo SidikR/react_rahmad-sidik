@@ -18,4 +18,8 @@ git https://github.com/SidikR/react_rahmad-sidik.git
 
 ## 📚 Documentation
 ### Halaman Index
-[Index](5_HTML\Screenshoot\index.png)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/5_HTML/Screenshoot/index.png?raw=true)
+### Halaman Form Sign Up
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/5_HTML/Screenshoot/form.png?raw=true)
+### Halaman Welcome
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/5_HTML/Screenshoot/welcome.png?raw=true)
