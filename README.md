@@ -11,3 +11,4 @@ Repositori Untuk Mini Bootcamp FrontEnd Digital Talent Pemberdayaan Masjid (Alte
 
 ### [Tugas 3](https://github.com/SidikR/react_rahmad-sidik/blob/main/3_Version%20Control%20and%20Branch%20Management%20(Git)/Praktikum/ReadMe.md)
 
+### [Tugas 4](https://github.com/SidikR/react_rahmad-sidik/blob/main/4_%20Figma%20Introduction%20Interface%20Dimension/Praktikum/ReadMe.md)
