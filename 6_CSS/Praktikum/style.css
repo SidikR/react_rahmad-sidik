@@ -1,0 +1,58 @@
+body {
+    font-family: 'Slabo 27px', serif !important;
+}
+
+p{
+    color: white;
+}
+
+.box-container{
+    display: flex;
+    width: 450px;
+    height: 200px;
+    gap: 50px;
+}
+
+.box-container .box-container-red{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    align-items:center;
+    justify-content:center;
+    background-color: red;
+}
+
+.box-container .box-container-red p{
+    font-size: 20px;
+}
+
+.box-container .box-container-blue{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    align-items:center;
+    justify-content:center;
+    background-color: blue;
+}
+
+.box-container .box-container-blue p{
+    font-size: 20px;
+}
+
+.box-green{
+    margin-top: 50px;
+    border-radius: 20px;
+    width: 450px;
+    height: 450px;
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.box-green p{
+    font-size: 20px;
+}
+

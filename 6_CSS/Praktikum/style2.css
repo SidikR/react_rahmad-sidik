@@ -1,0 +1,98 @@
+body {
+    font-family: 'Slabo 27px', serif !important;
+    background-image: url('img/sample-pattern.png');
+    background-repeat: repeat;
+}
+
+nav.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+    background-color: green;
+}
+
+nav.navbar .navbar-container{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+nav.navbar .navbar-container-navigations ul{
+    display: flex;
+    gap: 10px;
+}
+
+nav.navbar .navbar-container-navigations a{
+    text-decoration: none;
+
+}
+
+nav.navbar .navbar-container-logo img{
+    min-width: 30%;
+    width: 30%;
+    height: auto;
+    align-items: center;
+}
+
+nav.navbar .navbar-container-navigations{
+    display: flex;
+}
+
+.container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 43.45px;
+}
+
+.container .container-post{
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    width: 60%;
+    padding: 10px;
+}
+
+.container .container-post-heading{
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.container .container-post-content{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    gap: 2px;
+
+}
+.container .container-post-content .container-post-content-detail{
+    background-color: white;
+    padding: 40px;
+    padding-top: 30px;
+}
+.container .container-post-content .container-post-content-detail a{
+    font-size: 24px;
+    text-decoration: none;
+}
+.container .container-post-content .container-post-content-detail p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+footer.footer {
+    background-color: black;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer.footer span{
+    color: white;
+}
