@@ -18,8 +18,8 @@ git https://github.com/SidikR/react_rahmad-sidik.git
 
 ## 📚 Screenshoot
 ### File 1
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/5_CSS/Screenshoot/file1.png?raw=true)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/6_CSS/Screenshoot/file1.png?raw=true)
 ### File 2
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/5_CSS/Screenshoot/file2_1.png?raw=true)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/6_CSS/Screenshoot/file2_1.png?raw=true)
 #### Lanjutan
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/5_CSS/Screenshoot/file2_2.png?raw=true)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/6_CSS/Screenshoot/file2_2.png?raw=true)

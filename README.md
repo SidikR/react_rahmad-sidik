@@ -23,3 +23,4 @@ git https://github.com/SidikR/react_rahmad-sidik.git
 
 ### [Tugas 4](https://github.com/SidikR/react_rahmad-sidik/blob/main/4_%20Figma%20Introduction%20Interface%20Dimension/Praktikum/ReadMe.md)
 ### [Tugas 5](https://github.com/SidikR/react_rahmad-sidik/blob/main/5_HTML/Praktikum/ReadMe.md)
+### [Tugas 6](https://github.com/SidikR/react_rahmad-sidik/blob/main/6_CSS/Praktikum/ReadMe.md)
