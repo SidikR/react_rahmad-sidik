@@ -1,0 +1,34 @@
+.container-read_more-image img{
+    align-self: center;
+    max-width: 10%;
+}
+
+.container-about-image img{
+    width: 100%;
+
+}
+
+.accordion-item {
+    border: none;
+  }
+
+.accordion-button:not(.collapsed){
+    box-shadow: none;
+}
+
+
+footer a{
+    text-decoration: none;
+}
+
+.toggle-left::before {
+    position: absolute;
+    left: 0;
+    transform: rotate(0deg);
+  }
+
+.toggle-left::after {
+    position: absolute;
+    left: 0;
+  }
+  
