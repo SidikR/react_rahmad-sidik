@@ -18,13 +18,13 @@ git https://github.com/SidikR/react_rahmad-sidik.git
 
 ## 📚 Screenshoot
 ### View on Dekstop
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_dekstop_1.png?raw=true)
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_dekstop_2.png?raw=true)
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_dekstop_3.png?raw=true)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_dekstop_1.png)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_dekstop_2.png)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_dekstop_3.png)
 
 ### View on Mobile
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_1.png?raw=true)
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_2.png?raw=true)
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_3.png?raw=true)
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_4.png?raw=true)
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_5.png?raw=true)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_1.png)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_2.png)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_3.png)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_4.png)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Screenshoot/view_mobile_5.png)
