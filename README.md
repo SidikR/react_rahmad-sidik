@@ -25,3 +25,5 @@ git https://github.com/SidikR/react_rahmad-sidik.git
 ### [Tugas 5](https://github.com/SidikR/react_rahmad-sidik/blob/main/5_HTML/Praktikum/ReadMe.md)
 ### [Tugas 6](https://github.com/SidikR/react_rahmad-sidik/blob/main/6_CSS/Praktikum/ReadMe.md)
 ### [Tugas 7](https://github.com/SidikR/react_rahmad-sidik/blob/main/7_Bootstraps/Praktikum/ReadMe.md)
+### [Tugas 8](https://github.com/SidikR/react_rahmad-sidik/blob/main/8_JavascriptRefreshment/Praktikum/ReadMe.md)
+    
