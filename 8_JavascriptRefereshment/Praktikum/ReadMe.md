@@ -26,7 +26,7 @@ ditampilkan.
 
 2B. Karena variable ```nama``` dideklarasikan menggunakan ``const`` yang artinya variabel tersebut hanya bisa dideklarasikan sekali saja dan valuenya dan tidak dapat diganti lagi.
 
-C. Tentu saja tidak karena variable ``asal`` berada di dalam scope ``function`` yang dimana variable tersebut hanya dapat diakses didalam scope function tersebut.
+2C. Tentu saja tidak karena variable ``asal`` berada di dalam scope ``function`` yang dimana variable tersebut hanya dapat diakses didalam scope function tersebut.
 
 ### Nomor 3
 ![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/8_JavascriptRefreshment/Screenshoot/nomor_3.png)
