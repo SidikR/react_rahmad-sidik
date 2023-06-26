@@ -35,10 +35,10 @@ ditampilkan.
 ![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/8_JavascriptRefreshment/Screenshoot/nomor_4.png)
 
 ### Nomor 5
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/8_JavascriptRefreshment/Screenshoot/5.png)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/8_JavascriptRefreshment/Screenshoot/nomor_5.png)
 
 ### Nomor 6
-![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/8_JavascriptRefreshment/Screenshoot/6.png)
+![Index](https://github.com/SidikR/react_rahmad-sidik/blob/main/8_JavascriptRefreshment/Screenshoot/nomor_6.png)
 
 
 # Terima Kasih
