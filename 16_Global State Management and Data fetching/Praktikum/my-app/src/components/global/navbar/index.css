@@ -1,0 +1,11 @@
+.Navlink{
+    text-decoration: none;
+    color: black;
+}
+
+.Navlink:hover{
+    color: white;
+    background-color: brown;
+    padding: 7px;
+    border-radius: 5px;
+}
